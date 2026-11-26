@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+ollama
+qdrant-client
+rank-bm25
+sentence-transformers
+pypdf
+python-docx
+python-multipart
+python-dotenv
